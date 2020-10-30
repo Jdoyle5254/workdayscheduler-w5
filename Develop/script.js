@@ -19,7 +19,7 @@
 // THEN the current day is displayed at the top of the calendar
 // function that runs on opening of page to display the day and time
 
-$("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
+$("#currentDay").text(moment().format('MMMM Do YYYY, h:mm a'));
    colorChange()
    showNotes()
 // WHEN I view the time blocks for that day
