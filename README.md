@@ -22,7 +22,8 @@ The page shows 12 hours of the day from 7am to 7pm with a text field for the use
 
 
 
-The user can save the note they input  by clicking the button in the right hand column.  The information saves to the page.  
+The user can save the note they input  by clicking the button in the right hand column.  The information then saves to the page in that time block.  
+![Buttons update ](https://user-images.githubusercontent.com/69594945/97768105-bd930680-1aee-11eb-8d5d-181299a3fb13.PNG)
 
 
 ## Credits
