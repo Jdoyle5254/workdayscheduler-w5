@@ -27,7 +27,8 @@ The user can save the note they input  by clicking the button in the right hand 
 
 
 ## Credits
-Endless moments, well moments.js; the TA's and our Instructor Lori for all the support and patience.  Also the best tutor who answers all my questions.
+Endless moments, well moments.js; the TA's and our Instructor Lori for all the support and patience.  Also the best tutor who answers all my questions. Oh yes, and of course Font Awesome: https://fontawesome.com/icons?d=gallery and Google. 
+
 ## License
 MIT License
 
