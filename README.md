@@ -14,6 +14,7 @@ To Install locally from Git Hub repository, got to the repository: https://githu
 
 ## Usage
 When the user navigates to the page https://jdoyle5254.github.io/workdayscheduler-w5/.   The date and time will appear.  
+![Calendar  open page PNG](https://user-images.githubusercontent.com/69594945/97768106-bd930680-1aee-11eb-828c-00526afa59e6.PNG)
 
 
 The page shows 12 hours of the day from 7am to 7pm with a text field for the user to add reminders to the time of day.  The calendar is color coded hours in the  past are gray, the current hour is colored in red, and the future hour is colored green.
